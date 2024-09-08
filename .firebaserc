@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "web-easy-chat",
+    "firebase deploy --project=prod": "web-easy-chat"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
