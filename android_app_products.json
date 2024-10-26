@@ -1,0 +1,89 @@
+/* [
+  {
+    "id": "1",
+    "name": "Product 1",
+    "price": 1000,
+    "image": "product1"
+  },
+  {
+    "id": "2",
+    "name": "Product 2",
+    "price": 2000,
+    "image": "product2"
+  },
+  {
+    "id": "1",
+    "name": "Product 1",
+    "price": 1000,
+    "image": "product1"
+  },
+  {
+    "id": "2",
+    "name": "Product 2",
+    "price": 2000,
+    "image": "product2"
+  },
+  {
+    "id": "1",
+    "name": "Product 1",
+    "price": 1000,
+    "image": "product1"
+  },
+  {
+    "id": "2",
+    "name": "Product 2",
+    "price": 2000,
+    "image": "product2"
+  },
+  {
+    "id": "1",
+    "name": "Product 1",
+    "price": 1000,
+    "image": "product1"
+  },
+  {
+    "id": "2",
+    "name": "Product 2",
+    "price": 2000,
+    "image": "product2"
+  }
+  // Add more products as needed
+] */
+
+
+[
+  {
+    "id": "rec43w3ipXvP28vog",
+      "price": 999,
+      "name": "high-back bench",
+      "image": [
+        {
+          "url": "https://course-api.com/images/store/product-1.jpeg",
+          "type": "image/jpeg"
+        }
+      ]
+  },
+  {
+    "id": "rec4f2RIftFCb7aHh",
+      "price": 7999,
+      "name": "albany table",
+      "image": [
+        {
+          "url": "https://course-api.com/images/store/product-2.jpeg",
+          "type": "image/jpeg"
+         
+        }
+      ]
+  },
+  {
+    "id": "rec8kkCmSiMkbkiko",
+      "price": 2599,
+      "name": "accent chair",
+      "image": [
+        {
+          "url": "https://course-api.com/images/store/product-3.jpeg",
+          "type": "image/jpeg"
+        }
+      ]
+  }
+]
