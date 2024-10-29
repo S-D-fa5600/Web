@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rec43w3ipXvP28vog",
+    "price": 999,
+    "name": "Back Bench",
+    "image": "https://course-api.com/images/store/product-1.jpeg"
+  },
+  {
+    "id": "rec4f2RIftFCb7aHh",
+    "price": 7999,
+    "name": "Albany Table",
+    "image": "https://course-api.com/images/store/product-2.jpeg"
+  },
+  {
+    "id": "rec8kkCmSiMkbkiko",
+    "price": 2599,
+    "name": "Accent Chair",
+    "image": "https://course-api.com/images/store/product-3.jpeg"
+  }/*,
+  {
+    "id": "recxaXFy5IW539sgM",
+    "price": 1099,
+    "name": "Albany Sectional",
+    "image": "https://course-api.com/images/store/product-11.jpeg"
+  }*/
+]
